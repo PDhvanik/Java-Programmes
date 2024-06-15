@@ -79,7 +79,7 @@ Each module is organized into separate folders. You can navigate through the fol
 
 - Exception Handling: Learn how to handle exceptions and create robust programs.
 
--Input/Output (I/O): Understand file handling and data streams.
+- Input/Output (I/O): Understand file handling and data streams.
 
 ## Contributing
 
